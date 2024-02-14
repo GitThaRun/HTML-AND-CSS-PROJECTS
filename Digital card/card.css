@@ -1,0 +1,55 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-color: gray;
+    padding:90px;
+}
+.card{
+    background-color:white;
+    height:460px;
+    width:300px;
+    border-radius:8px;
+}
+.image{
+    padding:5px;
+    border-radius:9px;
+}
+.image img{
+    border-radius:9px;
+}
+.content{
+    padding:2px 5px;
+    font-family: 'Poppins', sans-serif;
+    font-weight:6px;
+}
+.content p{
+    font-size:13px;
+    color:grey;
+}
+.capsules{
+    padding:1px 4px 14px;
+}
+.capsules span{
+    border:2px solid gray;
+    padding:5px;
+    border-radius:15px;
+    font-size:11px;
+    font-family: 'Baloo Bhaijaan 2', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+h2{
+    font-size:20px;
+}
+.button{
+    padding:13px 90px;
+}
+.button button{
+    padding:5px 15px;
+    border-radius:17px;
+    background-color:rgb(197, 228, 238);
+    color:blue;
+    border:none;
+    margin-top:15px;
+}
