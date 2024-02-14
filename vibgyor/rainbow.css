@@ -1,0 +1,31 @@
+h1{
+    font-family:Arial;
+    font-weight: 10px;
+    padding-left:400px;
+}
+td{
+    height:300px;
+    width:170px;
+    border:6px solid black;
+}
+#one{
+    background-color:violet;
+}
+#two{
+    background-color:indigo;
+}
+#three{
+    background-color:blue;
+}
+#four{
+    background-color:green;
+}
+#five{
+    background-color:yellow;
+}
+#six{
+    background-color:orange;
+}
+#seven{
+    background-color:red;
+}
